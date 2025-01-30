@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, My name is <span className="purple">Dixon Zor </span>
             from <span className="purple"> I am from the philadelphia area.</span>
             <br />
-            I am currently A student at Penn State, set to graduate in May of 2025.
+            I am currently a student at Penn State, set to graduate in May of 2025.
             <br />
             At the end of my studies I will earn a bachelor degree in computer science and technology.
             <br />
@@ -26,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Writting and Creating Youtube videos
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Soccer and Football and basketball
+              <ImPointRight /> Playing Soccer, Football and basketball
             </li>
           </ul>
 
