@@ -50,7 +50,7 @@ to suppliers. It includes tables for users with defined admin roles and secure a
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Data Analysis"
               description="This notebook is for the analysis of pupil data, focusing on high-confidence data (confidence > 0.9) to ensure accurate and reliable results. The analysis includes fixation detection, pupil movement trends, and various fixation visualizations."
               ghLink="https://github.com/DixonzorCmpsi/Data-Analysis-eyetracker/blob/main/pupil_data_analysis_ThiccLab.ipynb"
               demoLink="https://github.com/DixonzorCmpsi/Data-Analysis-eyetracker/blob/main/pupil_data_analysis_ThiccLab.ipynb"              
