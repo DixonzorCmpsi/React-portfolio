@@ -27,14 +27,14 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are learning new &nbsp;
+              My field of Interests are learning new &nbsp;
               <i>
                 <b className="purple">Software Technologies</b> and
                 {" "}
                 <b className="purple">
                   Developing Applications.
                 </b><br />
-                Always Open To Learning More though. <br />
+                Im always Open To Learning More though. <br />
               </i>
               <br />
               <br />
