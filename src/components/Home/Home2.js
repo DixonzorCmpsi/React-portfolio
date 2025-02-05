@@ -19,31 +19,31 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I want to be a great programmer one day, but the more I learn the less I know 🤷‍♂️
+              The more I learn to code, the less I feel like I know about coding. Thats just my day to day conundrum🤷‍♂️
               <br />
-              <br />These are the languages I use most
+              <br />These are the some languages I use most
               <i>
                 <b className="purple"> Python, Javascript and C/C++. </b>
               </i>
               <br />
               <br />
-              My field of Interests are learning new &nbsp;
+              My field of Interests is mostly about learning new &nbsp;
               <i>
                 <b className="purple">Software Technologies</b> and
                 {" "}
                 <b className="purple">
-                  Developing Applications.
+                  Developing Fun Applications.
                 </b><br />
-                Im always Open To Learning More though. <br />
+                Im always Open To Learning More though, I believe thats the only way real way to be a programmer<br />
               </i>
               <br />
               <br />
-              I love...
+              I like...
               <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  other modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
