@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "./static/css/main.23db6b73.css",
-    "main.js": "./static/js/main.ebef064a.js",
+    "main.js": "./static/js/main.06267405.js",
     "static/js/415.4d6acbeb.chunk.js": "./static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "./static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "./static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/codeEditor.png": "./static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/Dixon Zor Smeal Resume - real 4.pdf": "./static/media/Dixon Zor Smeal Resume - real 4.24eec9bc23d6e1c0cdbf.pdf",
+    "static/media/prof-pic.png": "./static/media/prof-pic.26303f1bfd76d1b652a7.png",
     "static/media/oldport.png": "./static/media/oldport.cafce1d68e696ac9f1f9.png",
     "static/media/home-main.svg": "./static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "./static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "./static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "./static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "./static/media/logo.3594ef2fb614fed94e66.png",
-    "static/media/avatar.svg": "./static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "./static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "./index.html",
     "main.23db6b73.css.map": "./static/css/main.23db6b73.css.map",
-    "main.ebef064a.js.map": "./static/js/main.ebef064a.js.map",
+    "main.06267405.js.map": "./static/js/main.06267405.js.map",
     "415.4d6acbeb.chunk.js.map": "./static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23db6b73.css",
-    "static/js/main.ebef064a.js"
+    "static/js/main.06267405.js"
   ]
 }
