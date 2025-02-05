@@ -19,22 +19,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              The smarter I get, the dumber I feel. Thats just my day to day conundrum🤷‍♂️
+              I just am guy who likes to code and create, it helps me feel better about myself🤷‍♂️
               <br />
-              <br />These are the some languages I use most
+              <br />These are my favorite languages
               <i>
                 <b className="purple"> Python, Javascript and C/C++. </b>
               </i>
               <br />
               <br />
-              My field of Interests is mostly about learning new &nbsp;
+              My field of Interest is mostly about learning new &nbsp;
               <i>
                 <b className="purple">Software Technologies</b> and
                 {" "}
                 <b className="purple">
                   Developing Fun Applications.
                 </b><br />
-                Im always Open To Learning More though, I believe thats the only way real way to be a programmer<br />
+                Im always Open To discovering more about the world, and learning new things <br />
               </i>
               <br />
               <br />
