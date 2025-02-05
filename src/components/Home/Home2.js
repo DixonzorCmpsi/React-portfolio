@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              The more I learn to code, the less I feel like I know about coding. Thats just my day to day conundrum🤷‍♂️
+              The smarter I get, the dumber I feel. Thats just my day to day conundrum🤷‍♂️
               <br />
               <br />These are the some languages I use most
               <i>
