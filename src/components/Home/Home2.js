@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I just am guy who likes to code and create, it helps me feel better about myself🤷‍♂️
+              I am just guy who likes to code and create, it helps me feel better about myself🤷‍♂️
               <br />
               <br />These are my favorite languages
               <i>
