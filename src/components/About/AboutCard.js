@@ -9,9 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, My name is <span className="purple">Dixon Zor </span>
-            from <span className="purple"> I am from the philadelphia area.</span>
+            <span className="purple"> I am from the philadelphia area, </span>
             <br />
-            I am currently a student at Penn State, set to graduate in May of 2025.
+            and is currently a student at Penn State, set to graduate in May of 2025.
             <br />
             At the end of my studies I will earn a bachelor degree in computer science and technology.
             <br />
